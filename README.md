@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Patan College For Professional Studies.
+- 🎓 &nbsp; Studying Computer Science and Software Engineering at Patan College For Professional Studies.
 - 💼 &nbsp; Looking for junior developer role or internship.
 - 🌱 &nbsp; Learning the MERN stack like all the cool kids.
 - ✍️ &nbsp; Trying.........
@@ -29,7 +29,7 @@
  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij](https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg)
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij&logoColor=007ACC)
 - 🖥 &nbsp;
 
 
