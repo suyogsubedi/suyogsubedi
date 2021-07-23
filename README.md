@@ -1,4 +1,3 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F73Wv&psig=AOvVaw1phi0ExtyqqeJv0QSIS1r6&ust=1627127166811000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDZ95uP-fECFQAAAAAdAAAAABAD
 
 <h2> Hey there! I'm Suyog.</h2>
 
