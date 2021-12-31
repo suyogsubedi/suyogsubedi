@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and Software Engineering at Patan College For Professional Studies.
 - 💼 &nbsp; Looking for junior developer role or internship.
-- 🌱 &nbsp; Learning the MERN stack like all the cool kids.
+- 🌱 &nbsp; Learning Data Science and React.
 - ✍️ &nbsp; Trying.........
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
